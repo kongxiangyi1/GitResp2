@@ -1,7 +1,9 @@
 package com.kxy.module;
 
 public class Persion {
-    public static void main(String[] args) {
+    private int age;
 
+    public static void main(String[] args) {
+        int a;
     }
 }
