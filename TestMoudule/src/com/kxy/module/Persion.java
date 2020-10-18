@@ -6,6 +6,7 @@ public class Persion {
     private int height;
     public double weight;
     public boolean sex;
+    public String address;
     public static void main(String[] args) {
         int a;
 
